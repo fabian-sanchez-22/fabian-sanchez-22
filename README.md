@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Fabian, a technology student in software analysis and development, I have experience developing academic and personal projects in technologies such as PHP, JavaScript, MYSQL, Java, HTML, CSS and Bootstrap, as well as creating UML diagrams and API rest</h1>
 <h3 align="center">A passionate student from Colombia</h3>
 
 - 🌱 I’m currently learning **laravel**
