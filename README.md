@@ -1,6 +1,6 @@
 <h3 align="center">A passionate student from Colombia</h3>
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **sanchezfabian2805@gmail.com**
 
